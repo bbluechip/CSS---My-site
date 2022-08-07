@@ -1,5 +1,5 @@
 ## My Site
-![Animation]()
+![Animation](https://github.com/bbluechip/My-Site-With-Css/blob/main/images/Animation.gif)
 
 👉[Click here to see the page](https://bbluechip.github.io/My-Site-With-Css/)
 
